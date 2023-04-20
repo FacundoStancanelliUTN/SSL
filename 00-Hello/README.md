@@ -1,6 +1,6 @@
 # SSL
 
-## . Numero de equipo: 
+## . Numero de equipo: 26
 ## . Nombre del equipo: 
 ## . Autores de la resolución: Facundo Diego Stancanelli 
 ## . Legajo: 204.093-1
